@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
